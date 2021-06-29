@@ -20,6 +20,7 @@ Things I love:
 * Puzzles
 ```
 <hr>
-[![Codewars](https://www.codewars.com/users/thisisjustin/badges/micro)](https://www.codewars.com/users/thisisjustin)]
+
+[![Codewars](https://www.codewars.com/users/thisisjustin/badges/micro)](https://www.codewars.com/users/thisisjustin)
 
 
