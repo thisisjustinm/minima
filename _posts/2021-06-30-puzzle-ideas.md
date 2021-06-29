@@ -4,7 +4,7 @@ layout: post
 
 A tabulated list of ideas from my old puzzle website.
 
-|S. No.|Easy|Hard|Cryptography|Steganography|
+|Level|Easy|Hard|Cryptography|Steganography|
 | --- | --- |--- |--- |--- |
 |1|storing soln. in html comments|3 primes associated with image, 1 provided, 2 are image h,width|reverse cipher|text on image with color slightly brighter than bg|
 |2|accept blank soln.|soln. as konami code|soln. as known md5 hashes|store soln. in audio, view by spectrogram|
