@@ -9,5 +9,5 @@ Following are the bit of narcisstic math stuff I’ve come accross over the year
 2. [**13532385396179**](https://oeis.org/A195264): If we do the prime factorization of ```13532385396179```, we get the following product of primes, ```13 x 53^2 x 3853 x 96179```, which contains all the numbers in the original number.
 
 3. [**Golomb's sequence**](https://oeis.org/A001462):  a(n) is the number of times n occurs, starting with a(1) = 1. Sequence is ```1, 2, 2, 3, 3, 4, 4, 4, 5, 5, 5, 6, 6, 6, 6, 7, 7, 7, 7,...```. If we create a sequence out of how many numbers appear at successive indices, we get back the Golomb's sequence. i.e. 1 appears 1 time, 2 appears 2 times, 3 appears 2 times, 4 appears 3 times, 5 appears 3 times, 6 appears 4 times and so on. If we keep track of how many times the appearences occur, we get ```1, 2, 2, 3, 3, 4,...``` which is the Golomb's sequence.
-
-4. **Tupper's self referential formula**:
+4. [**Kolakoski sequence**](https://oeis.org/A000002): a(n) is length of n-th run; a(1) = 1. Sequence is ```1, 2, 2, 1, 1, 2, 1, 2, 2, 1, 2, 2, 1, 1,```. If we look at how the run progresses, and how many times the numbers appear, we get back the sequence i.e. 1 appears 1 time, 2 appears 2 times, 1 now appears 2 times, 2 appears 1 times, If we keep track of how many times the appearences occur, we get ```1, 2, 2, 1``` which is the Kolakoski sequence.
+5. **Tupper's self referential formula**:
