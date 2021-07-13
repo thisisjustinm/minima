@@ -36,7 +36,7 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
 - about.md
-- test.markdown
+- projects.markdown
 
 # Build settings
 theme: minima
