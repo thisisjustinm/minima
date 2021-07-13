@@ -4,7 +4,7 @@ title: Beans
 permalink: /beans/
 ---
 
-The projects that I've made for no f\*cken use or reason.
+The projects that I've made for no rhyme or reason.
 
 * Persephone: Just a simple hex string visualizer. Named after the Greek goddess of the underworld. [[run](https://persephone-vmh.herokuapp.com/)]
 * irisb0t: irisb0t is a simple image tweeting piece of code. Call it a tweeting bot or whatever. [[twttr](https://twitter.com/irisb0t)]
