@@ -12,6 +12,7 @@ The projects that I've made for no rhyme or reason.
 * Hades: Hades is a hashing algorithm which generates a 128-bit hex digest. Named after the Greek god of the underworld. [[pypi](https://pypi.org/project/hades-hash/)]
 
 <scripts>
+  
   function onKonamiCode(cb) {
   var input = '';
   var key = '38384040373937396665';
@@ -26,4 +27,5 @@ The projects that I've made for no rhyme or reason.
 }
 
 onKonamiCode(function () {alert('\o/')})
+  
 </scripts>
