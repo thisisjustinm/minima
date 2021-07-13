@@ -1,7 +1,7 @@
 ---
 layout: page
 title: beans
-permalink: /about/
+permalink: /test/
 ---
 
 test content
