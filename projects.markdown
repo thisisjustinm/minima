@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Beans
+title: Projects
 permalink: /beans/
 ---
 
