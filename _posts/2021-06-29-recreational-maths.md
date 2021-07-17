@@ -18,14 +18,15 @@ Recreational mathematics is any type of mathematics mainly for entertainment rat
       * Prime generation 
       * Twin primes [[oeis](https://oeis.org/A001097)]
     * Pandigital numbers and formulas [[oeis](https://oeis.org/A050278)]
+    * Fibonacci numbers [[oeis](https://oeis.org/A000045)]
+      * Golden ratio [[oeis](https://oeis.org/A001622)]
+      * Lucas numbers [[oeis](https://oeis.org/A000032)]
     * Biggest numbers used/recorded for research
       * Graham's number [[oeis](https://oeis.org/A133613)][[wiki](https://en.wikipedia.org/wiki/Graham%27s_number)]
       * TREE(3) and Kruskal's tree theorem [[oeis](https://oeis.org/A300402)][[wiki](https://en.wikipedia.org/wiki/Kruskal%27s_tree_theorem)]
       * Rayo's number [[wiki](https://en.wikipedia.org/wiki/Rayo%27s_number)]
     * Transcendental numbers [[oeis-wiki](https://oeis.org/wiki/Transcendental_numbers)]
     * Uncomputable numbers
- 
- * Golden Ratio and Fibbonacci numbers
  * Numbers as 3-palindrome number sum
  * Cryptography - RSA,ECC and Diffie Hellman
  * Poincare Recurrence time
