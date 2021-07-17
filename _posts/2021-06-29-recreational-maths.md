@@ -13,13 +13,18 @@ Recreational mathematics is any type of mathematics mainly for entertainment rat
     * Klein bottles and Mobius strips [[site](https://www.kleinbottle.com/)][[wiki](https://en.wikipedia.org/wiki/Klein_bottle)]
     * Spikey spheres in higher dimensions [[video](https://www.youtube.com/watch?v=mceaM2_zQd8)]
  * Numbers
+    * Prime numbers [[oeis](https://oeis.org/A000040)]
+      * Primality tests [[wiki](https://en.wikipedia.org/wiki/Primality_test)]
+      * Prime generation 
+      * Twin primes [[oeis](https://oeis.org/A001097)]
+    * Pandigital numbers and formulas [[oeis](https://oeis.org/A050278)]
     * Biggest numbers used/recorded for research
       * Graham's number [[oeis](https://oeis.org/A133613)][[wiki](https://en.wikipedia.org/wiki/Graham%27s_number)]
       * TREE(3) and Kruskal's tree theorem [[oeis](https://oeis.org/A300402)][[wiki](https://en.wikipedia.org/wiki/Kruskal%27s_tree_theorem)]
       * Rayo's number [[wiki](https://en.wikipedia.org/wiki/Rayo%27s_number)]
-    * Trancendental and Incomputable numbers
- * Pandigital numbers and formulas for e,pi
- * Patterns in primes, and prime generation
+    * Transcendental numbers [[oeis-wiki](https://oeis.org/wiki/Transcendental_numbers)]
+    * Uncomputable numbers
+ 
  * Golden Ratio and Fibbonacci numbers
  * Numbers as 3-palindrome number sum
  * Cryptography - RSA,ECC and Diffie Hellman
