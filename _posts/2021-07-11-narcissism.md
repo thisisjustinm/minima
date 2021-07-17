@@ -2,14 +2,9 @@ Narcissism is defined excessive interest in or admiration of oneself. Amongst th
 
 Following are the bit of narcisstic math stuff I’ve come accross over the years.
 
-1. **Narcissistic number**: This is a number that is the sum of its digits raised to the number of digits in the number, in a given base. These numbers are more commonly known as Armstrong numbers. In base 10, 2 examples are 153 and 1634.
-  * A 3 digit number: ```153 => 1^3 +  5^3 + 3^3 = 1 + 125 + 27 = 153```
-  * A 4 digit number: ```1634 => 1^4 + 6^4 + 3^4 + 4^4 = 1 + 1296 + 81 + 256 = 1634```
-
-2. **13532385396179**: If we do the prime factorization of ```13532385396179```, we get the following product of primes, ```13 x 53^2 x 3853 x 96179```, which contains all the numbers in the original number.
-3. **Tupper's self referential formula**: This is a formula, which when graphed at a specific location on the x,y plane, visually represents itself. The formula is ```1/2 < floor(mod(floor(y/17)*2^(-17*floor(x)-mod(floor(y),17)),2))```.<details>![image](https://user-images.githubusercontent.com/23431812/125192922-b15b6d80-e267-11eb-9686-1a948e5be147.png) Generated using tool available [here](https://tuppers-formula.ovh/).</details>
-4. **Golomb's sequence**:  a(n) is the number of times n occurs, starting with a(1) = 1. Sequence is ```1, 2, 2, 3, 3, 4, 4, 4, 5, 5, 5, 6, 6, 6, 6, 7, 7, 7, 7,...```. If we create a sequence out of how many numbers appear at successive indices, we get back the Golomb's sequence. i.e. 1 appears 1 time, 2 appears 2 times, 3 appears 2 times, 4 appears 3 times, 5 appears 3 times, 6 appears 4 times and so on. If we keep track of how many times the appearences occur, we get ```1, 2, 2, 3, 3, 4,...``` which is the Golomb's sequence.
-5. **Kolakoski sequence**: a(n) is length of n-th run; a(1) = 1. Sequence is ```1, 2, 2, 1, 1, 2, 1, 2, 2, 1, 2, 2, 1, 1,...```. If we look at how the run progresses, and how many times the numbers appear, we get back the sequence i.e. 1 appears 1 time, 2 appears 2 times, 1 now appears 2 times, 2 appears 1 times. If we keep track of how many times the appearences occur, we get ```1, 2, 2, 1,...``` which is the Kolakoski sequence.
-6. **Look and say numbers**: Look and say numbers is a sequence that describes the previous term in the sequence. The sequence is ```	1, 11, 21, 1211, 111221, 312211,...```, where 2nd term defines previous term, or 1 amount of 1 (1 1s). Subsequently, we see 2 1s, describing 11, then 1 2s and 1 1s describing 21 an so on. This sequence doesn't define itself like the other ones, but rather the contents define the other items.
-7. **Fractals**: Fractals are complex, infinite patterns, that are self similar, at different scales. An example is the Sierpinski carpet, which has fractional Hausdorff dimension of 1.893. Another famous one is the Koch snowflake. The most famous one is the Mandelbrot fractal. Fractals maybe exactly self similar at all scales, like the Koch snowflake, or may be quasi-self similar, approximating the pattern at different scales, and may contain copies of the whole item, like the Mandelbrot set. Fractals may be generated using different techniques like recursion, L-systems etc. Romanesco broccolis, Lichtenberg figures etc. are natural items which exhibit approximate fractals nature.<details>Mandelbrot set generated using tool available [here](http://usefuljs.net/fractals/): 
-![image](https://user-images.githubusercontent.com/23431812/125193979-e28a6c80-e26c-11eb-8c91-a92644c558c9.png)</details>
+* Narcissistic numbers [[oeis](https://oeis.org/A005188)]
+* 13532385396179 [[oeis](https://oeis.org/A195264)]
+* Tupper's self referential formula [[wiki](https://en.wikipedia.org/wiki/Tupper%27s_self-referential_formula)]
+* Golomb's sequence [[oeis](https://oeis.org/A001462)]
+* Look and say numbers [[oeis](https://oeis.org/A005150)]
+* Fractals [[wiki](https://en.wikipedia.org/wiki/Fractal)]
