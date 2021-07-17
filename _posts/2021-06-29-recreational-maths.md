@@ -1,4 +1,4 @@
-Recreational mathematics is any type of mathematics mainly for entertainment rather than strictly for research stuff. Following are some bits of recreational or interesting math stuff I've come accross over the years. Most of the items come from Numberphile videos.
+Recreational mathematics is any type of mathematics mainly for entertainment rather than strictly for research stuff. Following are some bits of recreational and interesting math stuff I've come accross over the years. Not all items are recreational and most of the items come from Numberphile videos.
 
  * Tupper's self referential formula [[wiki](https://en.wikipedia.org/wiki/Tupper%27s_self-referential_formula)]
  * Fractional dimensions and fractals [[wiki](https://en.wikipedia.org/wiki/Fractal)]
@@ -27,6 +27,9 @@ Recreational mathematics is any type of mathematics mainly for entertainment rat
       * Rayo's number [[wiki](https://en.wikipedia.org/wiki/Rayo%27s_number)]
     * Transcendental numbers [[oeis-wiki](https://oeis.org/wiki/Transcendental_numbers)]
     * Uncomputable numbers
- * Numbers as 3-palindrome number sum
- * Cryptography - RSA,ECC and Diffie Hellman
- * Poincare Recurrence time
+ * Numbers as 3-palindrome number sum [[arxiv](https://arxiv.org/abs/1706.10206)][[video](https://www.youtube.com/watch?v=OKhacWQ2fCs)]
+ * Cryptography 
+    * RSA public-key cryptosystem [[patent](https://patents.google.com/patent/US4405829)][[wiki](https://en.wikipedia.org/wiki/RSA_(cryptosystem))][[video](https://www.youtube.com/watch?v=JD72Ry60eP4)]
+    * Elliptic-curve cryptography [[wiki](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography)][[video](https://www.youtube.com/watch?v=NF1pwjL9-DE)]
+    * Diffie Hellman key exchange [[paper](https://ee.stanford.edu/~hellman/publications/24.pdf)][[video](https://www.youtube.com/watch?v=NmM9HA2MQGI)]
+ * Poincare recurrence theorem [[wiki](https://en.wikipedia.org/wiki/Poincar%C3%A9_recurrence_theorem)][[video](https://www.youtube.com/watch?v=1GCf29FPM4k)]
