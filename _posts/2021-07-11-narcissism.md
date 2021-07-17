@@ -1,6 +1,4 @@
-Narcissism is defined excessive interest in or admiration of oneself. Amongst the numbers too, exists, narcissitic numbers and self referential items, which identify themselves, and nothing else.
-
-Following are the bit of narcisstic math stuff I’ve come accross over the years.
+Narcissism is defined excessive interest/admiration of oneself. Amongst the numbers too, exists, narcissitic numbers and self referential items, which identify themselves, and nothing else. Following are the bit of narcisstic math stuff I’ve come accross over the years.
 
 * Narcissistic numbers [[oeis](https://oeis.org/A005188)]
 * 13532385396179 [[oeis](https://oeis.org/A195264)]
