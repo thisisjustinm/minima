@@ -3,8 +3,8 @@ Following are some bits of recreational or interesting math stuff I've come accr
  * Tupper's self referential formula [[wiki](https://en.wikipedia.org/wiki/Tupper%27s_self-referential_formula)]
  * Fractional dimensions and fractals [[wiki](https://en.wikipedia.org/wiki/Fractal)]
     * Mandelbrot fractal [[wiki](https://en.wikipedia.org/wiki/Mandelbrot_set)]
-      * Julia sets
-      * Logistic Map
+      * Julia sets and Fatou sets [[wiki](https://en.wikipedia.org/wiki/Julia_set)]
+      * Logistic Map [[oeis](https://oeis.org/A098587)][[wiki](https://en.wikipedia.org/wiki/Logistic_map)]
       * Fiegenbaum constant
  * Polygons, Polyhedrons and 4,5 Polytopes
  * Graham's number, TREE(3) and Rayo's number
