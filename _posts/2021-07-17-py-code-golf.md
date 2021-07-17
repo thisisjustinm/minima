@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 Code golf is attempting to write code in the least amount of characters. Following are Python code golf tips I collected from around the internet.
 
 ```python
