@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /beans/
+permalink: /projects/
 ---
 
 The projects that I've made for no rhyme or reason.
@@ -11,4 +11,5 @@ The projects that I've made for no rhyme or reason.
 * HTTP Status Birbs:  Yes, this is the birb version of httpstatusdogs and http.cat.[[run](https://http-birbs.herokuapp.com/)]
 * Hades: Hades is a hashing algorithm which generates a 128-bit hex digest. Named after the Greek god of the underworld. [[pypi](https://pypi.org/project/hades-hash/)][[run](https://persephone-vmh.herokuapp.com/)]
 * Access Granted: A cryptography based puzzle app, containing 10 levels, each harder than the last. [[idle](#)]
+* Markdown Vote: Create markdown badge for adding upvotes/downvotes. [[run](https://mdvo.herokuapp.com)]
 
