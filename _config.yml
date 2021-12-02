@@ -39,7 +39,7 @@ header_pages:
 - projects.markdown
 
 # Build settings
-theme: minima
+remote_theme: songzivong/dark-minima
 
 plugins:
  - jekyll-feed
