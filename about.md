@@ -13,4 +13,4 @@ When I'm not doing that, you can find me browsing YouTube or sleeping.
 My primary interests are Blockchain, Cyber Security, Mathematics, and Cryptography.
 I also make puzzles and wierd services for fun.
 
-![https://www.codewars.com/users/juuuuu/badges/micro](https://www.codewars.com/users/juuuuu/badges/micro)
+![https://www.codewars.com/users/juuuuu/badges/micro](https://www.codewars.com/users/juuuuu)
